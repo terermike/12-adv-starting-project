@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Props","image":"https://imgs.search.brave.com/5fNnDKoRRuLiEn3a17skEEtSGqoH1OLCn6fpeZTUdYU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y2xpY2thbmRsZWFy/bnBob3RvZ3JhcGh5/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMC8wNS9iZXN0/LXBob3RvZ3JhcGh5/LXByb3BzLTItNjk0/eDEwMjQuanBn","date":"2024-08-03","description":"Just props","id":"abb24c9d-f7b0-4391-8460-4b2bea9c5083"},{"title":"siuuu","image":"https://imgs.search.brave.com/Qu82VC4u-Ut1OUrWwV_V8vVNV4RkmRjr6MnXvGe4MCE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk1EUXlZemho/WW1RdFkyWXlOeTAw/WlRsa0xUazBaREF0/TW1NMk5qQmlOV1Ez/T1ROa1hrRXlYa0Zx/Y0dkZVFYVnlOelUx/TnpFM05UZ0AuanBn","date":"2024-07-27","description":"prrrr!!","id":"541a9e82-18bb-4b52-a7cb-467ca2c68ec7"},{"title":"Event 6","image":"https://imgs.search.brave.com/ntgcPNgil4NfMP84k4vywcVGLGesMpGAZcckcEidyrw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk1EbGxZekU0/TVRjdE1Ua3dZeTAw/T0dFeExUZzBOak10/WXpFMVkyUTROVE5r/WW1VM1hrRXlYa0Zx/Y0dkZVFYVnlOelUx/TnpFM05UZ0AuanBn","date":"2024-08-03","description":"All about cars","id":"0fb3801c-0316-45c2-ab0e-bd2e5a3d65bb"},{"title":"Tech ","image":"https://th.bing.com/th/id/OIP.0lyXdzo8kaoREO0ewAFaOAHaD3?w=281&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7","date":"2024-07-13","description":"Tech event","id":"62741dd6-81f2-4e91-9e66-326fd253b877"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
