@@ -9,7 +9,6 @@ function EventsPage() {
       <Await resolve={events}>
         {(loadedEvents) => <EventsList events={loadedEvents} />}
       </Await>
-      ;
     </Suspense>
   );
 }
